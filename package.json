@@ -1,12 +1,13 @@
 {
-  "name": "@antv/gatsby-theme-antv",
+  "name": "@sanallen/gatsby-theme-antv",
   "private": true,
+  "version": "0.10.17-iot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antvis/gatsby-theme-antv"
+    "url": "https://github.com/sanallen/gatsby-theme-antv"
   },
   "bugs": {
-    "url": "https://github.com/antvis/gatsby-theme-antv/issues"
+    "url": "https://github.com/sanallen/gatsby-theme-antv/issues"
   },
   "license": "MIT",
   "workspaces": [
